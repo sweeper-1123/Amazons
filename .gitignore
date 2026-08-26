@@ -1,0 +1,9 @@
+# ===== 编译产物 =====
+*.exe
+*.o
+*.idb
+
+# ===== Visual Studio 生成 =====
+.vs/
+Debug/
+.vscode/
